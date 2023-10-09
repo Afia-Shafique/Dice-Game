@@ -1,0 +1,35 @@
+body{
+    background-color: #393E46;
+    margin-top: 45px;
+}
+#refresh{
+text-align: center;
+color: #4ECCA3;
+font-size: 45px;
+font-family:Georgia,cursive;
+text-shadow: 7px 0 #232931;
+}
+#player{
+    margin-top: 100px;
+   margin-left: 487px;
+   word-spacing: 170px;
+}
+#playerName{
+    color: #4ECCA3;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#dice{
+    text-align: center;
+}
+#img1
+{
+height: 180px;
+width:180px;
+margin-right: 97px;
+}
+#img2{
+    height: 180px;
+width:180px;
+}
+
